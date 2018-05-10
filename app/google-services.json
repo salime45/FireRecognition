@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201357587226",
+    "firebase_url": "https://firerecognition.firebaseio.com",
+    "project_id": "firerecognition",
+    "storage_bucket": "firerecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201357587226:android:1ca020aae5249134",
+        "android_client_info": {
+          "package_name": "com.imonje.firerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201357587226-n89e6c2rt7eoo4lmbp7j1hn66qdfcgoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8DqUWAQrTsh58qdnIqh52uMaWHI9wDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
